@@ -1,0 +1,13 @@
+Alistair: Prince of Cuddles
+
+This is my cat Alistair.  He's a good boy, and I love him.
+
+Teal: #32D2D2
+Blue: #4745CD
+Grey: #2C2C39
+
+HTML Font:
+<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro" rel="stylesheet">
+
+CSS:
+font-family: 'Source Sans Pro', sans-serif;
